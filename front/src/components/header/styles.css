@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+}
+.header-class {
+  background: #fff;
+  height: 90px;
+}
+.middle-item {
+  margin: auto;
+  width: 500px;
+}
+.input {
+  width: 80%;
+  margin-right: 2% !important;
+}
+.button {
+  width: 18%;
+  height: 54px;
+}

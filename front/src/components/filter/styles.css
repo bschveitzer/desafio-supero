@@ -1,0 +1,20 @@
+.root {
+  margin: 20px;
+}
+.filter {
+  width: 60%;
+  margin: 0 auto;
+  padding: 10px;
+  display: flex;
+}
+.date-input {
+  margin-left: 10px !important;
+  width: 110px;
+}
+.date-text {
+  margin: 10px !important;
+}
+.results-count {
+  margin-left: 210px !important;
+  margin-top: 10px !important;
+}

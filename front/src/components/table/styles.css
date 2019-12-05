@@ -1,0 +1,27 @@
+.table-style {
+  margin: 50px;
+}
+.row {
+  display: flex;
+  width: 100%;
+  border-bottom: 1px #BDBDBD solid;
+  padding: 8px 0;
+  transition: 0.3s;
+}
+.row:hover {
+  background: #EEEEEE;
+  cursor: pointer;
+}
+.header {
+  background: #EEEEEE;
+}
+.cell {
+  padding: 15px;
+  width: 25%;
+}
+.pagination {
+  margin: auto !important;
+  width: 10%;
+  padding: 20px;
+  display: flex !important;
+}

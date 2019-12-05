@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "title": "Livro 1",
+      "ISBN": "90000",
+      "author": "Autor 1",
+      "publisher": "Editora 1",
+      "year": 1956,
+      "language": "Inglês",
+      "weight": 0.1,
+      "dimension": {
+        "length": 10,
+        "width": 12,
+        "height": 8
+      }
+    },
+    {
+      "title": "Livro 2",
+      "ISBN": "90001",
+      "author": "Autor 1",
+      "publisher": "Editora 1",
+      "year": 1928,
+      "language": "Inglês",
+      "weight": 0.3,
+      "dimension": {
+        "length": 15,
+        "width": 12,
+        "height": 10
+      }
+    },
+    {
+      "title": "Livro 3",
+      "ISBN": "90002",
+      "author": "Autor 2",
+      "publisher": "Editora 1",
+      "year": 1999,
+      "language": "Português",
+      "weight": 0.4,
+      "dimension": {
+        "length": 8,
+        "width": 8,
+        "height": 8
+      }
+    },
+    {
+      "title": "Livro 4",
+      "ISBN": "90003",
+      "author": "Autor 3",
+      "publisher": "Editora 2",
+      "year": 2006,
+      "language": "Português",
+      "weight": 0.8,
+      "dimension": {
+        "length": 15,
+        "width": 15,
+        "height": 10
+      }
+    },
+    {
+      "title": "Livro 5",
+      "ISBN": "90004",
+      "author": "Autor 3",
+      "publisher": "Editora 5",
+      "year": 2015,
+      "language": "Francês",
+      "weight": 1,
+      "dimension": {
+        "length": 20,
+        "width": 30,
+        "height": 12
+      }
+    },
+    {
+      "title": "Livro 6",
+      "ISBN": "90005",
+      "author": "Autor 1",
+      "publisher": "Editora 1",
+      "year": 2002,
+      "language": "Inglês",
+      "weight": 0.3,
+      "dimension": {
+        "length": 7,
+        "width": 10,
+        "height": 10
+      }
+    },
+    {
+      "title": "Livro 7",
+      "ISBN": "90006",
+      "author": "Autor 4",
+      "publisher": "Editora 2",
+      "year": 2019,
+      "language": "Português",
+      "weight": 0.5,
+      "dimension": {
+        "length": 10,
+        "width": 12,
+        "height": 8
+      }
+    },
+    {
+      "title": "Livro 8",
+      "ISBN": "90007",
+      "author": "Autor 4",
+      "publisher": "Editora 1",
+      "year": 2016,
+      "language": "Portugês",
+      "weight": 0.2,
+      "dimension": {
+        "length": 10,
+        "width": 12,
+        "height": 8
+      }
+    },
+    {
+      "title": "Livro 9",
+      "ISBN": "90008",
+      "author": "Autor 1",
+      "publisher": "Editora 2",
+      "year": 2019,
+      "language": "Inglês",
+      "weight": 0.6,
+      "dimension": {
+        "length": 15,
+        "width": 19,
+        "height": 7
+      }
+    },
+    {
+      "title": "Livro 10",
+      "ISBN": "90009",
+      "author": "Autor 3",
+      "publisher": "Editora 2",
+      "year": 1998,
+      "language": "Espanhol",
+      "weight": 0.9,
+      "dimension": {
+        "length": 14,
+        "width": 12,
+        "height": 8
+      }
+    },
+    {
+      "title": "Livro 11",
+      "ISBN": "90010",
+      "author": "Autor 8",
+      "publisher": "Editora 2",
+      "year": 1908,
+      "language": "Inglês",
+      "weight": 0.1,
+      "dimension": {
+        "length": 10,
+        "width": 12,
+        "height": 8
+      }
+    },
+    {
+      "title": "Livro 12",
+      "ISBN": "90011",
+      "author": "Autor 3",
+      "publisher": "Editora 4",
+      "year": 1977,
+      "language": "Espanhol",
+      "weight": 0.9,
+      "dimension": {
+        "length": 9,
+        "width": 15,
+        "height": 8
+      }
+    },
+    {
+      "title": "Livro 13",
+      "ISBN": "90012",
+      "author": "Autor 5",
+      "publisher": "Editora 5",
+      "year": 1900,
+      "language": "Inglês",
+      "weight": 0.3,
+      "dimension": {
+        "length": 11,
+        "width": 11,
+        "height": 11
+      }
+    }
+  ]
+}

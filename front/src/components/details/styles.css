@@ -1,0 +1,16 @@
+.modal-position {
+  display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.modal-style {
+  padding: 30px;
+  width: 500px;
+}
+.info-row {
+  display: flex;
+  padding-bottom: 15px;
+}
+.info-row div {
+  width: 50%;
+}
